@@ -1,7 +1,9 @@
 # MCRTA
 
 ## Introduction
-This repository contains my review and some study notes for the **MCRTA** course by CWL. It is designed to help others preparing for this course by providing a structured summary of the key concepts, tips, and resources.
+This repository contains my review and some study notes for the **MCRTA** course by CWL. It is designed to help others decide whether to purchase it and go for it, and to help others preparing for this course by providing a structured summary of the key concepts, tips, and resources.
+
+![MCRTA](https://github.com/user-attachments/assets/563a5504-4752-4b13-9a9a-2be8189c9800)
 
 ## Table of Contents
 1. [About the Certification](#about-the-certification)
