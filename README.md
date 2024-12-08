@@ -27,7 +27,9 @@ Mainly transversal to all domains AWS, Microsoft Azure and GCP
 - Red Team Operations (Manual and Automated)
 ### My Takeaway
 The MCRTA certification course is an excellent entry point for anyone new to cloud red teaming, offering hands-on labs across AWS, Azure, and GCP environments. It’s particularly appealing due to its affordability—available for just $5 during promotions like Black Friday.
+
 The course excels in providing a structured overview of each cloud provider, from their architecture to IAM. However, the lab environments are mostly focused on enumeration, lacking aspects like lateral movement or privilege escalation, which are covered in the videos but not hands-on. Despite these limitations, the course delivers a beginner-friendly introduction to key cloud red teaming activities such as enumeration, escalation, exfiltration, and persistence.
+
 The AWS section provides valuable insights, but tools like Pacu require troubleshooting if you're working from RedCloudOS and the course could dive a bit into OSINT techniques and tools. Azure’s material requires a deeper understanding and independent research to capture flags, encouraging learners to think critically. Finally, The GCP content touches on automation but could expand further on showing the use of these tools with practical scenarios.
 
 Overall, the course offers a solid starting point, especially considering its price, but could benefit from more polished materials and clearer guidance on next steps after completing the documentation and videos and before initiating the labs and capturing the flags.
