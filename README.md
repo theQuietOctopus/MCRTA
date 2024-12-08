@@ -18,20 +18,13 @@ This repository contains my review and some study notes for the **MCRTA** course
 - **Format**: Life-time access to MCRTA lab and 30 Flags to submit
 
 ## Topics Covered
-### Domain 1: AWS
-- [Subtopic 1]
-- [Subtopic 2]
-- Notes on [Key Concepts]
-
-### Domain 2: Azure
-- [Subtopic 1]
-- [Subtopic 2]
-- Important considerations: [List key points]
-
-### Domain 3: GCP
-- [Subtopic 1]
-- [Subtopic 2]
-- Important considerations: [List key points]
+Mainly transversal to all domains AWS, Microsoft Azure and GCP
+### Domains: AWS, Microsoft Azure and GCP
+- Architecture
+- IAM
+- Authentication (GUI and CLI)
+- CLI Enumeration
+- Read Team Operations (Manual and Automated)
 
 ## Resources
 - [Book Name](link)
